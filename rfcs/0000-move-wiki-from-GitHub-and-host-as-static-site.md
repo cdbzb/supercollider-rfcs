@@ -10,7 +10,7 @@ Move the wiki from Github to wiki.supercollider.online.  Use [Sphinx](https://ww
 
 A wiki is hopefully a permanent reference.
 
-But in the history of SC, there has already been (at least?) one abandoned wiki that was migrated to the GitHub wiki, and while GitHub is a convenient place, [it may not a place we should support.][https://sfconservancy.org/GiveUpGitHub/]
+But in the history of SC, there has already been (at least?) one abandoned wiki that was migrated to the GitHub wiki, and while GitHub is a convenient place, [it may not a place we should support.](https://sfconservancy.org/GiveUpGitHub/)
 
 Moving to out of GitHub would allow the community to take ownership of the wiki URL and be independent of the code hosting platform, providing a permanent location for precious information.
 
