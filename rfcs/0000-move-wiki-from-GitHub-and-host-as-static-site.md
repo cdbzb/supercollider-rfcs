@@ -30,12 +30,12 @@ and on the forum [here](https://scsynth.org/t/the-sc-wiki/8123/11?u=semiquaver)
 
 # Specification
 
-As a proof of concept I cloned the existing wiki and converted it to a Sphinx website - this means that the history of most pages is untouched, preserving valuable git history (see https://github.com/capital-G/supercollider-wiki/blame/main/docs/contributing/workflow/Unit-Testing-Guide.md)
+As a proof of concept @capital-G cloned the existing wiki and converted it to a Sphinx website - this means that the history of most pages is untouched, preserving valuable git history (see https://github.com/capital-G/supercollider-wiki/blame/main/docs/contributing/workflow/Unit-Testing-Guide.md)
 
 Repo: https://github.com/capital-G/supercollider-wiki
 Website: https://capital-g.github.io/supercollider-wiki/
 
-Edit buttons were added to pages that drop users into the repo where they can edit and make pull requests in the browser.
+Edit buttons were added which drop users into the repo where they can edit and make pull requests from the browser.
 
 Further work on style and structure could be done using a PR workflow
 
