@@ -4,7 +4,7 @@
 
 # Summary
 
-Move the wiki from Github to wiki.supercollider.online.  Use [Sphinx](https://www.sphinx-doc.org/en/master/) to generate a static site. Adapted from @capital-G's proposal on Discord.
+Move the wiki from Github to wiki.supercollider.online.  Use [Sphinx](https://www.sphinx-doc.org/en/master/) to generate a static site. Adapted from @capital-G's proposal in issue [6181](https://github.com/supercollider/supercollider/issues/6181)
 
 # Motivation
 
