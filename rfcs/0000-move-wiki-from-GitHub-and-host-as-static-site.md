@@ -1,16 +1,16 @@
 - Title: Move Wiki from GitHub and convert to a static site
-- Date proposed:2024-01-17
+- Date proposed:2024-05-22
 - RFC PR: https://github.com/supercollider/rfcs/pull/0000 **update this number after RFC PR has been filed**
 
 # Summary
 
-Move the wiki from Github to wiki.supercollider.online.  Use [Sphinx](https://www.sphinx-doc.org/en/master/) to generate a static site.
+Move the wiki from Github to wiki.supercollider.online.  Use [Sphinx](https://www.sphinx-doc.org/en/master/) to generate a static site. Adapted from @capital-G's proposal on Discord.
 
 # Motivation
 
 A wiki is hopefully a permanent reference.
 
-But in the history of SC, there has already been (at least?) one abandoned wiki that was migrated to the GitHub wiki, and while GitHub is a convenient place, [it may not a place we should support.](https://sfconservancy.org/GiveUpGitHub/)
+But in the history of SC, there has already been (at least?) one abandoned wiki that was migrated to the GitHub wiki, and while GitHub is a *convenient* place, [it may not a place we should support.](https://sfconservancy.org/GiveUpGitHub/)
 
 Moving to out of GitHub would allow the community to take ownership of the wiki URL and be independent of the code hosting platform, providing a permanent location for precious information.
 
@@ -41,7 +41,7 @@ Further work on style and structure could be done using a PR workflow
 
 # Drawbacks
 
-The only drawback that surfaced in the discussions so far was relative ease of contribution. There are online wiki systems that allow users to edit directly in the browser. This proposal would limit contributors to those people comfortable with a git PR workflow. 
+One drawback that surfaced in the discussions so far was relative ease of contribution. While there *are* online wiki systems that allow users to edit directly in the browser, this proposal would limit contributors to those people comfortable with a git PR workflow. 
 
 
 
